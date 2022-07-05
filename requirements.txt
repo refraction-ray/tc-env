@@ -8,6 +8,6 @@ jax
 jaxlib
 networkx
 optax
-tensorcircuit==0.2.0
+tensorcircuit==0.2.2
 nbgitpuller
 
