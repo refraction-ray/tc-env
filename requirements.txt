@@ -10,4 +10,5 @@ networkx
 optax
 tensorcircuit==0.7.0
 nbgitpuller
+qiskit
 
