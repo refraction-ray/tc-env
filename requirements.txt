@@ -8,7 +8,7 @@ jax
 jaxlib
 networkx
 optax
-tensorcircuit==0.9.0
+tensorcircuit==0.10.0
 nbgitpuller
 qiskit
 
