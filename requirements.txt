@@ -1,14 +1,13 @@
 numpy
 scipy
-cirq==0.11
-tensorflow==2.7
-tensornetwork
+tensorflow
 graphviz
 jax
 jaxlib
 networkx
 optax
-tensorcircuit==0.10.0
+cotengra
+tensorcircuit-ng==1.3.0
 nbgitpuller
 qiskit
 
